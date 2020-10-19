@@ -18,3 +18,9 @@ The dataset is provided by New York Public Safety Department/NYPD and contains a
 </br></br>
 
 ![Screenshot (412)](https://user-images.githubusercontent.com/57986361/96410381-72324b80-1204-11eb-8a33-fa19ba8c031f.png)
+
+</br></br>
+
+![Screenshot (413)](https://user-images.githubusercontent.com/57986361/96410480-9a21af00-1204-11eb-8ea2-e9ac879cf5b0.png)
+
+
